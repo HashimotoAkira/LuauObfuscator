@@ -39,7 +39,7 @@
 
 ## 2. Cấu trúc dự án
 
-```text
+```text 
 LuauObfuscator/
 ├── bin/
 │   └── lune.exe              # Runtime Lune CLI (tương thích Luau + thư viện mở rộng)
