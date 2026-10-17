@@ -31,10 +31,9 @@ htmlcov/
 # ==========================================
 /dist/*
 !/dist/.gitkeep
-/tests/*
+tests/
 *_obf.luau
 *_obf.lua
-tests/test_*_output.luau
 
 # ==========================================
 # Temporary & Log Files
